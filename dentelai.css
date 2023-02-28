@@ -1,0 +1,296 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+
+body{
+    background-color: rgb(232, 232, 232);
+    padding: 50px 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.img {
+    align-items: center;
+    padding: 30px;
+    text-align: right;
+    
+    background: #FFFFFF;
+    border-radius: 12px;
+    
+    vertical-align: auto;
+    
+}
+.home{
+    color: black;
+    margin: 150px;
+    padding: 0;
+    display: inline;
+    word-spacing: 15px;
+    
+
+}
+#login{
+    
+    border-style: solid;
+    border-color: #008CFF;
+    display: inline;
+    color: #008CFF;
+    background-color: #FFFFFF;
+    gap: 8px;
+    width: 149px;
+    height: 54px;
+    border-radius: 12px;
+    padding: 15px;
+    
+
+}
+
+#Demo{
+    color: #FFFFFF;
+    background-color: rgb(75, 190, 196);
+    padding: 15px 32px;
+    gap: 8px;
+    width: 149px;
+    height: 54px;
+    display: inline;
+    border-radius: 12px;
+    
+}
+h1{
+    width: 615px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 140%;
+    color:  #0B0B0B;
+    
+    
+
+}
+p{
+    width: 599px;
+    height: 100px;
+
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.02em;
+    color: #5C5C5C
+
+}
+
+#get{
+    padding: 11px 40px;
+    gap: 10px;
+    align-items: center;
+    border-radius: 12px;
+    background-color: rgb(75, 190, 196);
+    color: white;
+    display: inline-block;
+    
+}
+
+#about{
+    align-content: center;
+    color: #0B0B0B;
+    text-align: right;
+    padding-left: 300px;
+    
+    
+}
+
+#para{
+    font-size: 18px ; 
+    text-align: center;
+    
+}
+
+#list{
+    list-style-image: url('img/tick.png');
+    
+}
+
+.maxeffi{
+    background-color:  #FFFCE4;
+    width: 2000px;
+    margin: 0;
+}
+
+#signup{
+    color: #FFFFFF;
+    background-color: rgb(75, 190, 196);
+    padding: 15px 32px;
+    gap: 8px;
+    width: 149px;
+    height: 54px;
+    display: inline;
+    border-radius: 12px;
+    
+
+}
+
+#list{
+    font-size: smaller;
+}
+
+#inte{
+    text-align: center;
+}
+
+#appt{
+    font-size: larger;
+}
+
+#elevate{
+    font-size: smaller;
+    padding: 0;
+    margin: 0;
+    color: #5C5C5C;
+}
+
+#main{
+    font-size: smaller;
+    padding-top: 0%;
+    color: #5C5C5C;
+}
+
+#benefits{
+    text-align: center;
+    font-size: xx-large;
+    margin: 10px;
+    padding: 20px 0;
+}
+
+#abc{
+    text-align: center;
+    color: #5C5C5C;
+    font-size: smaller;
+}
+
+
+
+#boxes{
+    align-items: right;
+    
+}
+
+#box1{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    font-size: small;
+    color: #5C5C5C;
+    height: 270px;
+    padding: 20px 20px;
+    margin: 60px;
+  
+}
+
+#box2{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    font-size: small;
+    color: #5C5C5C;
+    height: 270px;
+    padding: 20px 20px;
+    margin: 60px;
+}
+
+#box3{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    font-size: small;
+    color: #5C5C5C;
+    height: 270px;
+    padding: 20px 20px;
+    margin: 60px;
+}
+.form{
+    background-color: #FFFFFF;
+    width: 2000px;
+}
+
+#cont{
+    color: #603EE8;
+    font-size: small;
+    
+}
+
+#forming{
+    padding: 0 100px;
+}
+
+#mainform{
+    padding:  0 200px ;
+}
+
+#fill{
+    font-size: xx-large;
+    padding: 5px 0;
+}
+
+#please{
+    color: #5E5C66;
+    font-size: smaller;
+    padding: 10px 0;
+}
+
+#fo{
+    font-size: x-small;
+    color: #5E5C66;
+    padding: 5px 0;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    
+}
+button{
+    display: inline-block;
+    border-radius: 8px;
+    color: #FFFFFF;
+    background-color: #603EE8;
+    padding: 5px;
+    text-align: center;
+    
+    font-size: x-small;
+    border-color: #603EE8;
+    width: 310px;
+    height: 30px;
+}
+
+.lastpg{
+    background-color: #0E0434;
+    padding: 10px 30px;
+    width: 1943px;
+}
+
+#image{
+    color: white;
+    font-size: medium;
+    
+}
+
+#info{
+    color:  rgba(228, 227, 227, 0.564);
+    font-size:smaller;
+    padding: 20px 0 ;
+}
+
+#follow{
+    color:  rgba(228, 227, 227, 0.564);
+    font-size: xx-small;
+    padding: 20px 0 ;
+}
+
+#copy{
+    color: rgba(228, 227, 227, 0.564);
+    font-size: xx-small;
+    padding: 20px 0 ;
+}
