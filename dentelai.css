@@ -8,7 +8,17 @@ body{
     padding: 50px 50px;
     font-family: 'Poppins', sans-serif;
 }
+@media screen and (max-width: 992px){ 
+    #ig {
+        display: none;
+    }
+    #inte{
+        text-align: center;
+        display: none;
+    }
+    
 
+}
 
 .img {
     align-items: center;
@@ -115,7 +125,7 @@ p{
 
 .maxeffi{
     background-color:  #FFFCE4;
-    width: 2000px;
+    
     margin: 0;
 }
 
@@ -129,7 +139,6 @@ p{
     display: inline;
     border-radius: 12px;
     
-
 }
 
 #list{
@@ -212,7 +221,7 @@ p{
 }
 .form{
     background-color: #FFFFFF;
-    width: 2000px;
+    
 }
 
 #cont{
@@ -226,7 +235,7 @@ p{
 }
 
 #mainform{
-    padding:  0 200px ;
+    padding:  0 100px;
 }
 
 #fill{
@@ -268,7 +277,7 @@ button{
 .lastpg{
     background-color: #0E0434;
     padding: 10px 30px;
-    width: 1943px;
+    
 }
 
 #image{
